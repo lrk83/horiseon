@@ -8,4 +8,6 @@ This is the website for Horiseon, a marketing company. It provides imformation o
 
 ###Screenshots
 
-Image of Deployed Application
+![Image of Deployed Application](https://github.com/lrk83/horiseon/blob/main/assets/images/Screen%20Shot%202021-05-14%20at%203.03.13%20PM.png)
+
+![Image of Deployed Application](https://github.com/lrk83/horiseon/blob/main/assets/images/Screen%20Shot%202021-05-14%20at%203.03.32%20PM.png)
